@@ -1,4 +1,6 @@
 <div align="center"> 
+
+![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FTHE-DEATH-KORPS&label=AUDIENCE%20TODAY&countColor=%23ff8a65&style=plastic)
   
 ### “To each of us falls a task. And all the Emperor requires of us Guardsmen is that we stand the line and we die fighting. It is what we do best. We die standing."
 
