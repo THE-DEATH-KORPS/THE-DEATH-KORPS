@@ -1,7 +1,8 @@
 <div align="center"> 
 
-![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FTHE-DEATH-KORPS&label=AUDIENCE%20TODAY&countColor=%23ff8a65&style=plastic)
-![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FTHE-DEATH-KORPS&label=Total%20visitors%20&countColor=%23ff8a65&style=plastic)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTHE-DEATH-KORPS&label=Total%20visitors&countColor=%23ff8a65&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FTHE-DEATH-KORPS)
+[![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2FTHE-DEATH-KORPS&label=%20visitors%20here%20today&countColor=%23ff8a65&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FTHE-DEATH-KORPS)
+
   
 ### “To each of us falls a task. And all the Emperor requires of us Guardsmen is that we stand the line and we die fighting. It is what we do best. We die standing."
 
